@@ -11,6 +11,6 @@ public class WebController {
     @RequestMapping("send")
     public String sendString(){
         //返回一个什么鬼的东西噢
-        return "git与idea测试。";
+        return "git与idea测试。长一点的字符串";
     }
 }
